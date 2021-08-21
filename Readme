@@ -1,0 +1,12 @@
+/* Background invert bagian text
+    margin: 0;
+    background: linear-gradient( #FDFFFC
+ 50%, #000000 50%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+*/
+
+/* background invert bagian div
+background: linear-gradient(0deg, #FDFFFC
+ 50%, rgba(0, 0, 0, 0) 50%); 
+*/
